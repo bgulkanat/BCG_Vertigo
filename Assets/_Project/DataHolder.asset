@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90d3a6bec06614c419c0850ba4a70c25, type: 3}
+  m_Name: DataHolder
+  m_EditorClassIdentifier: 
+  SightImages:
+  - {fileID: 1183732165, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  - {fileID: -1120390586, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  - {fileID: 15199048, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  MagImages:
+  - {fileID: 1508393991, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  - {fileID: -550700775, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  - {fileID: -543102574, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  - {fileID: 1383341320, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  - {fileID: 639499091, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  BarrelImages:
+  - {fileID: -637962171, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  - {fileID: 602241640, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  - {fileID: -1810978649, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  TacticalImages:
+  - {fileID: 1016040635, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  - {fileID: 589563280, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  - {fileID: -598135279, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  StockImages:
+  - {fileID: 709509324, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  - {fileID: 1583359004, guid: 2ef5a63e78ffb5446b1a61c221ed7c21, type: 3}
+  SightNames:
+  - DEFAULT SIGHT
+  - THERMAL IMAGING
+  - NIGHTSTALKER
+  MagNames:
+  - DEFAULT MAG
+  - FLASHLOAD
+  - BULLETSTORM
+  - QUICKLOAD
+  - BEE HIVE
+  BarrelNames:
+  - DEFAULT BARREL
+  - COOL BREEZE
+  - PEACE KEEPER
+  TacticalNames:
+  - DEFAULT TACTICAL
+  - ETHEREAL
+  - PHANTOM
+  StockNames:
+  - DEFAULT STOCK
+  - RAPID FLEX
